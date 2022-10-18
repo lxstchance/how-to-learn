@@ -128,6 +128,8 @@
   font-size: 60px;
   font-weight: 600;
   text-align: center;
+  position: relative;
+  z-index: 10;
 }
 
 .section-title_theme_dark {
@@ -141,6 +143,8 @@
   font-size: 24px;
   font-weight: normal;
   text-align: center;
+  position: relative;
+  z-index: 10;
 }
 
 .section-subtitle_theme_dark {
@@ -203,8 +207,6 @@
   line-height: 1.15;
   font-size: 120px;
   font-weight: 600;
-  position: relative;
-  z-index: 10;
 }
 
 .feynman__subtitle {
@@ -212,8 +214,6 @@
   font-size: 36px;
   font-weight: normal;
   margin: 0;
-  position: relative;
-  z-index: 10;
 }
 
 .feynman__link {
@@ -280,12 +280,7 @@
   margin: 0;
 }
 
-.footer__column-links {
-  display: flex;
-  flex-direction: column;
-}
-
-.footer__menu {
+.footer__menu-list {
   list-style-type: none;
   padding: 0;
   margin: 0;
