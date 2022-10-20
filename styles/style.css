@@ -204,11 +204,19 @@
   max-width: 648px;
   margin: 0 auto 70px;
   font-size: 120px;
+  line-height: 1.15;
+  font-weight: 600;
+  position: relative;
+  z-index: 10;
 }
 
 .feynman__subtitle {
   line-height: 51px;
   font-size: 36px;
+  margin: 0 auto;
+  font-weight: normal;
+  position: relative;
+  z-index: 10;
 }
 
 .feynman__link {
@@ -275,7 +283,7 @@
   margin: 0;
 }
 
-.footer__menu-list {
+.footer__column-links {
   list-style-type: none;
   padding: 0;
   margin: 0;
