@@ -1,0 +1,6 @@
+.table__cell {
+  max-width: 250px;
+  text-align: left;
+  margin-top: 60px;
+  z-index: 10;
+}
