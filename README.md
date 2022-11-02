@@ -8,3 +8,7 @@
 1. HTML.
 2. CSS.
 3. BEM.
+
+
+[Написать мне в telegramm](https://t.me/Kirpichnikov_s_s)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxstchance)](https://github.com/lxstchance/github-readme-stats)
